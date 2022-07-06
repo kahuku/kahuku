@@ -9,8 +9,11 @@ BYU Computer Science & Data Science student
 *   🌍  I'm based in Provo, UT
 *   ✉️  You can contact me at [wilson.drew79@gmail.com](mailto:wilson.drew79@gmail.com)
 *   🧠  I'm learning Ruby on Rails
+
 <a href="https://www.github.com/kahuku" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kahuku?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/github/followers/kahuku?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
+                  
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>

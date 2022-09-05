@@ -42,9 +42,6 @@ BYU Computer Science & Data Science student
                           <a href="http://www.instagram.com/wilsonator02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />  </a>
                           <a href="https://www.linkedin.com/in/drewwilson2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                     </p>
-<p align="left">
-                          <a href="https://www.tiktok.com/@kahuku02" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="32" /></a>
-                    </p>
                       
 ### Badges
 <b>My GitHub Stats</b>

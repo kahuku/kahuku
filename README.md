@@ -4,13 +4,12 @@ Welcome to kahuku's GitHub ![](https://user-images.githubusercontent.com/1835055
 Software Engineering & Cybersecurity Research
 ----------------------------------------------------------------
 
-BYU Computer Science & Data Science student
+BYU Computer Science, Data Science, and Information Systems student
 
 *   🇺🇸  I'm based in Utah, USA
-(mailto:aw053102@byu.edu)
 *   🚀  I'm working on Bartleby, a Wizard101 damage calculator web app
 *   🧠  I'm learning algorithm design and analysis
-*   ✉️  You can contact me at [aw053102@byu.edu]
+*   ✉️  You can contact me at [aw053102@byu.edu](mailto:aw053102@byu.edu)
 
 <a href="https://www.github.com/kahuku" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/kahuku?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" height="42"/></a>

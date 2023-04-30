@@ -8,7 +8,7 @@ BYU Computer Science, Data Science, and Information Systems student
 
 *   🇺🇸  I'm based in Utah, USA
 *   🚀  I'm working on Bartleby, a Wizard101 damage calculator web app
-*   🧠  I'm learning algorithm design and analysis
+*   🧠  I'm learning skills for penetration testing and vulnerability management
 *   ✉️  You can contact me at [aw053102@byu.edu](mailto:aw053102@byu.edu)
 
 <a href="https://www.github.com/kahuku" target="_blank" rel="noreferrer"><img
@@ -46,9 +46,5 @@ BYU Computer Science, Data Science, and Information Systems student
 <a
                       href="http://www.github.com/kahuku"><img src="https://github-readme-stats.vercel.app/api?username=kahuku&show_icons=true&hide=issues,contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="kahuku's GitHub stats" /></a><a
                       href="http://www.github.com/kahuku"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=kahuku&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <a
-                      href="http://www.github.com/kahuku"><img src="https://activity-graph.herokuapp.com/graph?username=kahuku&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/kahuku" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahuku&langs_count=5&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/kahuku"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=kahuku&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/kahuku" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahuku&langs_count=5&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+f
